@@ -1,5 +1,5 @@
-ETH_ADDRESS = "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
-WETH9_ADDRESS = "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+ETH_ADDRESS = "0x094616f0bdfb0b526bd735bf66eca0ad254ca81f"
+WETH9_ADDRESS = "0x094616f0bdfb0b526bd735bf66eca0ad254ca81f"
 
 # see: https://chainid.network/chains/
 _netid_to_name = {
